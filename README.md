@@ -1,3 +1,3 @@
 # Lab 6 - Starter
 
-[https://yashpatki02.github.io/Lab6_Starter/](My Website)
+[My Webstite](https://yashpatki02.github.io/Lab6_Starter/)
